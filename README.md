@@ -5,12 +5,12 @@ Hi My name is Mulalo Mabuda
 Software Developer
 ------------------
 
-I am still a student from CodeSpace Academy's comprehensive Software Development course. I am proficient in HTML, CSS and JavaScript. My previous experience as a self-taught developer has primed me to quickly understand and apply new knowledge.
+I am a certified software developer, having completed CodeSpace Academy's comprehensive Software Development course. I am proficient in HTML, CSS, and JavaScript, and have also gained experience in React, Tailwind CSS, and TypeScript. My education has equipped me to quickly understand and apply new knowledge effectively.
 
 * 🌍  I'm based in Cape Town
 * ✉️  You can contact me at [mulalomabuda@gmail.com](mailto:mulalomabuda@gmail.com)
 * 🧠  I'm learning Advanced Javascript
-* ⚡  I am a soccer fan
+
 
 ### Skills
 
