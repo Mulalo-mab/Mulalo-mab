@@ -19,7 +19,9 @@ I am a certified software developer, having completed CodeSpace Academy's compre
                     </p>
 
                     
-    ### Socials
+ ### Socials
+
+ 
 <p align="left">
   <a href="https://www.github.com/Mulalo-mab" target="_blank" rel="noreferrer">
     <picture>
