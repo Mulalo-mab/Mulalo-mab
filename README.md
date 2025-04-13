@@ -11,7 +11,7 @@ I completed intensive training through **CodeSpace Academy** and **Life Choices 
 I’ve worked with a wide range of technologies including:
 - **Languages & Frameworks**: JavaScript, TypeScript, HTML5, CSS3, PHP, Python (Intro)
 - **Front-End**: React, Vue.js, Tailwind CSS, Bootstrap
-- **Back-End**: Node.js, Express.js
+- **Back-End**: Node.js, Express.js, MySQL
 - **Tools**: Git, Vite, Visual Studio Code, Figma
 
 Right now, I’m diving deeper into **WordPress** to expand my web development toolkit even further.
